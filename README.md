@@ -1,3 +1,12 @@
+# Project Uas Pemrograman Web
+**Nama Kelompok**
+1. Heru Nur Cahyono (2313030033)
+2. Kevin ryo junior (2313030093)
+3. M.Ramadhan Putra Bintang (2313030012)
+4. Hasyim as’ari (2313030111)
+5. Noval Zachri Alzamzami (2313030102)
+6. Novan Awangga Devantio (2313030065)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
